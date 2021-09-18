@@ -1,8 +1,9 @@
-![header-image](.//header_white_.png)
+
 
 ## Hi there, I am Nhat Long 👋.
 
-### I am a normal people, noob developer !!
+##### I am a normal people, noob developer !!
+##### I am har to learning about front-end
 
 * 🌱 I’m currently learning everything 🤣
 
