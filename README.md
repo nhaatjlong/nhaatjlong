@@ -8,8 +8,8 @@
 
 ### My social network 👇 
 <ul>
-    <li><a href="facebook.com/nhaatjlong"><strong>Facebook</strong></a></li>
-    <li><a href="instagram.com/nhaatjlong"><strong>Instagram</strong></a></li>
+    <li><a href="https://facebook.com/nhaatjlong"><strong>Facebook</strong></a></li>
+    <li><a href="https://instagram.com/nhaatjlong"><strong>Instagram</strong></a></li>
 </ul>
 <br />
 <br />
