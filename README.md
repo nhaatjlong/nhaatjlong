@@ -2,16 +2,15 @@
 
 ## Hi there, I am Nhat Long 👋.
 
-##### I am a normal people, noob developer !!
-##### I am har to learning about front-end
-
-* 🌱 I’m currently learning everything 🤣
-
-### Connect with Me
-
-<a href="facebook.com/nhaatjlong">Facebook</a>
+##### I am a normal people from a highland of Viet Nam ^ ^ !!
+##### Up to now , i'm trying hard to learn about front-end forcusing on React 😋
 
 
+### My social network 👇 
+<ul>
+    <li><a href="facebook.com/nhaatjlong"><strong>Facebook</strong></a></li>
+    <li><a href="instagram.com/nhaatjlong"><strong>Instagram</strong></a></li>
+</ul>
 <br />
 
 ### Languages and Tools:
