@@ -14,14 +14,9 @@
 <br />
 <br />
 <br />
-
 ---
-
-
 <br>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nhaatjlong)]()
 
 <br>
-
-![counter](https://engv9lixq2f3rpd.m.pipedream.net)
