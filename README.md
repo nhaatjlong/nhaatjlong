@@ -12,8 +12,6 @@
     <li><a href="https://instagram.com/nhaatjlong"><strong>Instagram</strong></a></li>
 </ul>
 <br />
-<br />
-<br />
 ---
 <br>
 
