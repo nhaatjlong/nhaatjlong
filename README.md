@@ -2,7 +2,7 @@
 
 ## Hi there, I am Nhat Long 👋.
 
-##### <-------- to see you ^^
+##### Nice to see you ^^
 
 <br />
 ---
